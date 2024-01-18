@@ -2,7 +2,7 @@
 ### Users:
 Admin
 * Users: admin
-* Pass: `1234567
+* Pass: 1234567
   
 Editor
 * Users: admin1
